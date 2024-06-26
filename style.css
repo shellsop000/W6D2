@@ -1,0 +1,30 @@
+.box{
+width: 120px;
+height: 120px;
+display: inline-block;
+margin:10px;
+cursor: pointer;
+background-color: #3c3939;
+}
+
+.colored{
+    background-color: #817e7e
+}
+body{
+    background-color: #e0dfdf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+#container{
+text-align: center;
+margin-top: 50px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
